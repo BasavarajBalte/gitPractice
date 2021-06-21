@@ -2,3 +2,6 @@ first branch first file added to repo
 #city name
 Bidar
 Bangalore
+#city Name
+Raichur
+Gulbarga
