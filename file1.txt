@@ -10,3 +10,9 @@ Gulbarga
 India
 US
 UK
+
+#District
+
+Bidar
+Bangalore
+Dharwad
